@@ -1,2 +1,2 @@
 # Video
-Aqui tenemos un visor de video con un boton de pausa y reproducion
+Aqui se pude ver un video con controles de pausa y reproducion
